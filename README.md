@@ -1,2 +1,2 @@
 # first-demo
-auther arif raza
+Author arif raza
